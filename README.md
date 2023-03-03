@@ -10,10 +10,7 @@ Tool-X is a kali linux hacking Tool installer for android. Tool-X is Developed B
 Install any tools by single click. You can install almost 70 tools in termux and GNURoot Debian Terminal.
 <br/></br>
 
-<p align="center">
-</p>
-
-<br/><br/><br/>
+<br/><br/>
 
 # How to use ?
 
@@ -23,13 +20,13 @@ Install any tools by single click. You can install almost 70 tools in termux and
 - Type 3 : if you know About us.
 - Type x : for exit.
 
-<br/><br/><br/>
+<br/><br/>
 
 # Warning
 
 ## I am not expert so use this tool at your own risk.
 
-<br/><br/><br/>
+<br/><br/>
 
 # How to Install in termux ?
 
@@ -53,7 +50,7 @@ Open the termux app and type following commands.
 
 Now type Tool-X from anywhare in your terminl to open Tool-X.
 
-<br/><br/><br/>
+<br/><br/>
 
 # How to Install in GNURoot Debian Terminal ?
 
